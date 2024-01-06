@@ -1,0 +1,20 @@
+* {
+    transition: .3s all ease-in-out;
+}
+
+body{
+    font-family: 'Poppins', ;
+}
+
+h1{
+    font-size: 41px;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #FFD019;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #707070;
+}
